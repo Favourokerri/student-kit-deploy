@@ -21,7 +21,7 @@
       <!-- Room List Start -->
       <div class="roomList">
         <div class="mobile-menu">
-          <form class="header__search">
+          <form class="header__search" action="{% url 'room_search' %}" method="get">
             <label>
               <i class="fa-brands fa-searchengin"></i><input placeholder="Search for posts" />
             </label>
