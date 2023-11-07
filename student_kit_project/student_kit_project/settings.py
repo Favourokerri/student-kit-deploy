@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-m@(dg-8&w(zh6$kvi3am2m9*so4x%fi^=u4&yp8zvu=(v1jmqo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'studenthub2.onrender.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'studenthub.onrender.com']
 
 
 # Application definition
